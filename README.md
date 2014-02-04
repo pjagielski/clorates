@@ -1,12 +1,12 @@
 # clorates
 
-A Clojure REST API for [devrates.com](http://devrates.com).
+A Clojure REST API for [devrates.com](http://devrates.com)
 
 ## Usage
 
 ```lein run```
 
-Visit http://localhost:3000/swagger/index.html
+Visit http://localhost:3000/swagger/index.html for Swagger generated documentation.
 
 ## License
 
