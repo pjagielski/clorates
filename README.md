@@ -1,6 +1,6 @@
 # clorates
 
-A Clojure REST API for [devrates.com](devrates.com).
+A Clojure REST API for [devrates.com](http://devrates.com).
 
 ## Usage
 
