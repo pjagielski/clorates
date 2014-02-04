@@ -18,7 +18,6 @@
     [metrics.ring.expose :refer [expose-metrics-as-json]]
     [metrics.ring.instrument :refer [instrument]]))
 
-
 (def base-url (or (get props "app.baseUrl") "http://localhost:3000"))
 
 (set-base base-url)
