@@ -9,7 +9,7 @@
     [com.h2database/h2 "1.3.170"] 
     [postgresql/postgresql "9.1-901-1.jdbc4"]
     [ch.qos.logback/logback-classic "1.1.0"]
-    [swag "0.2.7-SNAPSHOT"]
+    [swag "0.2.6"]
     [ring-middleware-format "0.3.0"]
     [ring/ring-jetty-adapter "1.2.0"]
     [ring "1.2.0"]
