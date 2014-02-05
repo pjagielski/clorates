@@ -1,6 +1,6 @@
 # clorates
 
-A Clojure REST API for [devrates.com](http://devrates.com)
+A Clojure REST API for [DevRates.com](http://devrates.com)
 
 [![Build Status](https://api.travis-ci.org/pjagielski/clorates.png)](https://travis-ci.org/pjagielski/clorates)
 
@@ -9,8 +9,17 @@ A Clojure REST API for [devrates.com](http://devrates.com)
 
 ```lein run```
 
-Visit http://localhost:3000/swagger/index.html for Swagger generated documentation.
+Visit [http://localhost:3000/swagger/index.html](http://localhost:3000/swagger/index.html) for [Swagger](https://github.com/wordnik/swagger-ui) generated documentation.
+
 Uses provided H2 database for some data (mostly random generated).
+
+
+## Stack
+
+- [Korma](http://sqlkorma.com/)
+- [compojure](https://github.com/weavejester/compojure)
+- [swag](https://github.com/narkisr/swag)
+- [metrics-clojure](https://github.com/sjl/metrics-clojure)
 
 ## License
 
