@@ -2,7 +2,7 @@
 
 A Clojure REST API for [DevRates.com](http://devrates.com)
 
-[![Build Status](https://api.travis-ci.org/pjagielski/clorates.png)](https://travis-ci.org/pjagielski/clorates)
+[![Build Status](https://travis-ci.org/pjagielski/clorates.png)](https://travis-ci.org/pjagielski/clorates)
 
 
 ## Usage
