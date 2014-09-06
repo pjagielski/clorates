@@ -1,4 +1,4 @@
-(ns clorates.core-test
+(ns clorates.int-core-test
   (:import (java.io InputStreamReader BufferedReader))
   (:require [clojure.test :refer :all]
             [clojure.data.json :as json]
@@ -14,4 +14,3 @@
                         (InputStreamReader. body-stream))))]
     (is (= (:status get-projects-resp) 200))
     (is (= (count (json/read-str body-string)) 1))))
-          
